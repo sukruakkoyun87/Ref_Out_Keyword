@@ -20,7 +20,6 @@ namespace Ref_Out_Keyword
 
             Console.WriteLine("Out Kullanımı Topla2 Methodu : {0}",result2);
 
-
         }
 
         static int Topla(ref int number1, int number2)
